@@ -16,7 +16,7 @@ Skills: HTML ·  CSS ·   Bootstrap · SASS · tailwind, SASS,  JavaScript · ES
 - 📫 How to reach me: imtiaz.azad98@gmail.com 
 - 😄 Pronouns: Imtiaz 
 - ⚡ Fun fact: fun with code 
-
+![Profile views](https://gpvc.arturio.dev/imtiazazad) 
 
 [dark]: https://github-readme-stats.vercel.app/api?username=imtiazazad&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
@@ -37,4 +37,4 @@ Skills: HTML ·  CSS ·   Bootstrap · SASS · tailwind, SASS,  JavaScript · ES
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imtiazazad)  
 
-![Profile views](https://gpvc.arturio.dev/imtiazazad)  
+ 
