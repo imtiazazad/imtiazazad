@@ -18,6 +18,8 @@ Skills: HTML ·  CSS ·   Bootstrap · SASS · tailwind, SASS,  JavaScript · ES
 - 😄 Pronouns: Imtiaz 
 - ⚡ Fun fact: fun with code 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazazad&layout=compact)](https://github.com/imtiazazad/github-readme-stats)
+
 <a href="https://github.com/imtiazazad/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazazad" />
 </a>
