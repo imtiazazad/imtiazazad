@@ -5,10 +5,10 @@
 ![Profile views](https://gpvc.arturio.dev/imtiazazad) 
 
 <a href="https://github.com/imtiazazad/github-readme-stats">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazazad&show_icons=true&count_private=true)  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazazad" />
 </a>
 <a href="https://github.com/imtiazazad/convoychat">
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imtiazazad)  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazazad&show_icons=true&count_private=true" />
 </a>
 
 I am a MERN-stack web developer. I have more than 2+ years of experience in the company and have good knowledge of front-end and back-end techniques for building web applications that match client needs. Skilled about web design too. I have developed several web applications from scratch but at the same time, I manage and update existing projects also as I have debugging skills (DEV Tools).
