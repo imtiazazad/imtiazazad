@@ -20,14 +20,6 @@ Skills: HTML ·  CSS ·   Bootstrap · SASS · tailwind, SASS,  JavaScript · ES
 
 
 <a href="https://github.com/imtiazazad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazazad&layout=compact" />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="github-profile-trophy.vercel.app/?username=imtiazazad" />
-</a>
-
-
-<a href="https://github.com/imtiazazad/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiazazad" />
 </a>
 <a href="https://github.com/imtiazazad/convoychat">
