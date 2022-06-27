@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Imtiaz Azad
 #### Mern Stack Developer
-
+![Profile views](https://gpvc.arturio.dev/imtiazazad) 
 
 I am a MERN-stack web developer. I have more than 2+ years of experience in the company and have good knowledge of front-end and back-end techniques for building web applications that match client needs. Skilled about web design too. I have developed several web applications from scratch but at the same time, I manage and update existing projects also as I have debugging skills (DEV Tools).
 
@@ -16,7 +16,7 @@ Skills: HTML ·  CSS ·   Bootstrap · SASS · tailwind, SASS,  JavaScript · ES
 - 📫 How to reach me: imtiaz.azad98@gmail.com 
 - 😄 Pronouns: Imtiaz 
 - ⚡ Fun fact: fun with code 
-![Profile views](https://gpvc.arturio.dev/imtiazazad) 
+
 
 [dark]: https://github-readme-stats.vercel.app/api?username=imtiazazad&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 
