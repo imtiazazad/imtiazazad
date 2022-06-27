@@ -1,4 +1,4 @@
-![Mern Stack Developer](https://pbs.twimg.com/profile_banners/280343487/1656311680/600x200)
+![Mern Stack Developer](https://i.ibb.co/Fm5nqwD/Navy-Minimalist-Property-Agent-Business-Card.jpg)
 
 ### Hi there 👋, I'm Imtiaz Azad
 #### Mern Stack Developer
